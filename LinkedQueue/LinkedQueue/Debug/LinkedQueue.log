@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\FCI_CU\FCAI-CU 2.2\Data Structure\LinkedQueue\LinkedQueue\Source.cpp(59,4): error C2365: 'LinkedQueue<T>::front': redefinition; previous definition was 'data member'
+D:\FCI_CU\FCAI-CU 2.2\Data Structure\LinkedQueue\LinkedQueue\Source.cpp(13): message : see declaration of 'LinkedQueue<T>::front'
+D:\FCI_CU\FCAI-CU 2.2\Data Structure\LinkedQueue\LinkedQueue\Source.cpp(91): message : see reference to class template instantiation 'LinkedQueue<T>' being compiled
+D:\FCI_CU\FCAI-CU 2.2\Data Structure\LinkedQueue\LinkedQueue\Source.cpp(61,1): error C2059: syntax error: 'return'
+D:\FCI_CU\FCAI-CU 2.2\Data Structure\LinkedQueue\LinkedQueue\Source.cpp(61,1): error C2238: unexpected token(s) preceding ';'
+D:\FCI_CU\FCAI-CU 2.2\Data Structure\LinkedQueue\LinkedQueue\Source.cpp(64,2): error C2146: syntax error: missing ';' before identifier 'T'

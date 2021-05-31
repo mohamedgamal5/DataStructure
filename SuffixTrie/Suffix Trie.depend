@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610098262 source:d:\fci_cu\fcai-cu 3.1\algorithms analysis & design\assignment\assignment1\suffix trie\main.cpp
+	<bits/stdc++.h>
+
+1610720964 source:d:\fci_cu\fcai-cu 3.1\advanced data structure\assignment\assignment2\suffix trie\main.cpp
+	<iostream>
+

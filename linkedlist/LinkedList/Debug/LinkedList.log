@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\FCI_CU\FCAI-CU 2.2\Data Structure\linkedlist\LinkedList\Source.cpp(114): warning C4715: 'LinkedList<int>::get': not all control paths return a value
+  LinkedList.vcxproj -> D:\FCI_CU\FCAI-CU 2.2\Data Structure\linkedlist\Debug\LinkedList.exe
